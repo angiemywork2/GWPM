@@ -10,6 +10,10 @@ body {
 
 }
 
+nav {
+	background-color: #67357F !important;
+}
+
 #whypsalm91 {
 
 	font-family: 'Saira Extra Condensed', sans-serif;
@@ -57,7 +61,8 @@ p {
 }
 
 .nav-wrapper {
-   background-color: #67357F;
+   background-color: #67357F !important;
+
 }
 
 .site-footer {
