@@ -1,0 +1,30 @@
+{
+  "name": "gwpm",
+  "version": "1.0.0",
+  "description": "gwpm",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.15.0",
+    "sequelize": "^4.14.0",
+    "typed.js": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angiemywork2/GWPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angiemywork2/GWPM/issues"
+  },
+  "homepage": "https://github.com/angiemywork2/GWPM#readme"
+}
